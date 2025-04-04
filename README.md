@@ -323,6 +323,7 @@ Document title: *CE239069 - PSoC&trade; 4: CAPSENSE&trade; low-power*
 |------- | ---------------------|
 | 1.0.0   | New code example |
 | 2.0.0   | Updated wdt function |
+| 2.1.0   | Changed PSoC HV MS kit name to PSOC4 |
 <br>
 
 All referenced product or service names and trademarks are the property of their respective owners.
